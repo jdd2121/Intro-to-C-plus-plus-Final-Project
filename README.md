@@ -1,4 +1,4 @@
-We will be completing the defaul project as assigned by our professor. Here is the project outline and expectations:
+We will be completing the default project as assigned by our professor. Here is the project outline and expectations:
 
 Basic Information
 The purpose of this project is to create a simple program to handle inventory and customer transactions for a store. 
