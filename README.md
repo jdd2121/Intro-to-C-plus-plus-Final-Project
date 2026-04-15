@@ -37,27 +37,27 @@ You must make note in your submission comments which stretch goals were attempte
 (simply writing the numbers is sufficient, for example "attempted stretch goals #1, 2, 4, and 6")
 
 
-1. Allow the cart to resize dynamically to grow or shrink to fit the size of its contents (hint: research the vectorLinks to an external site. class)
+1. Allow the cart to resize dynamically to grow or shrink to fit the size of its contents (hint: research the vector (https://cplusplus.com/reference/vector/vector/.) class)
    
 2. Allow the user to remove items from their cart (either present them a numbered list or allow them to remove an item by name)
    
 3. Allow the user the option of sorting their cart from the most expensive item to the least
    
 4. Suppose your store restocks every Tuesday.  If the user attempts to purchase an item which is out of stock, print out the number of days until it will be in stock again
-   (hint: you'll need to get the system time, research the timeLinks to an external site. reference)
+   (hint: you'll need to get the system time, research the time (https://cplusplus.com/reference/ctime/time/) reference)
    
 5. Suppose your store is closed for at least three (3) holidays every year.  Choose any three dates, they can be entirely fictional holidays.
-   When the program starts, check the date (see the timeLinks to an external site. reference).
+   When the program starts, check the date (see the time (https://cplusplus.com/reference/ctime/time/) reference).
    If it's a holiday, print that the store is currently closed and to come back tomorrow.
    
 6. Include the sales tax for at least 5 states in your program (these can be fictional).
    When the user checks out, prompt them for their state of residence and apply the applicable sales tax to their total.
    
-7. When the user checks out, print their receipt to a .txt file as well as the console (hint: research the ofstreamLinks to an external site. class)
+7. When the user checks out, print their receipt to a .txt file as well as the console (hint: research the ofstream (https://cplusplus.com/reference/ostream/ostream/) class)
 
-8. Instead of hard-coding the store's inventory into your program, read it in and parse it at runtime (hint: research the ifstreamLinks to an external site. class)
+8. Instead of hard-coding the store's inventory into your program, read it in and parse it at runtime (hint: research the ifstream (https://cplusplus.com/reference/fstream/ifstream/) class)
    
-9. Utilize a switchLinks to an external site. when implementing your main menu instead of an if/else chain
+9. Utilize a switch (https://en.cppreference.com/w/cpp/language/switch.html) when implementing your main menu instead of an if/else chain
     
 10. Safeguard your program against ANY input the user enters- malicious or otherwise.
     Attempting this stretch goal with negate the assumption in MVP #4- I will actively attempt to break your program by doing everything short of modifying the code itself.
