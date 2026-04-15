@@ -1,5 +1,9 @@
+#Ignores Compile files and machine specific .vscode stuff
 Program
 .vscode/tasks.json
 Program.dSYM/Contents/Info.plist
 Program.dSYM/Contents/Resources/DWARF/Program
 Program.dSYM/Contents/Resources/Relocations/aarch64/Program.yml
+
+#Ignores Mac HDD meta data files
+*._
