@@ -6,5 +6,7 @@ int main()
     //Print out a message to the user
     std::cout << "Hello, World!" << std::endl;
 
+    std::cout << "Testing (JD)" << std::endl;
+
     return 0;
 }
